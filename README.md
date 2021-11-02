@@ -17,11 +17,11 @@ Special thanks to @yeana-dev for the collection idea!
 7. [Match Last Name](https://github.com/tiffanybibby/algorithm-collection/tree/main/matchLastName)
 8. [Encrypt Phone Number](https://github.com/tiffanybibby/algorithm-collection/tree/main/encrypt_phone_number)
 9. [Factorialize](https://github.com/tiffanybibby/algorithm-collection/tree/main/factorialize)
-9. [Permuting Two Arrays](https://github.com/tiffanybibby/algorithm-collection/tree/main/permutingTwoArrays)
-9. [Time Conversion](https://github.com/tiffanybibby/algorithm-collection/tree/main/timeConversion)
+10. [Permuting Two Arrays](https://github.com/tiffanybibby/algorithm-collection/tree/main/permutingTwoArrays)
+11. [Time Conversion](https://github.com/tiffanybibby/algorithm-collection/tree/main/timeConversion)
 
 
-## Data Structure
+## Data Structures
 
-1. [Hash Table](https://github.com/tiffanybibby/algorithm-collection/blob/main/data_structure/hash_table.js)
-2. [Binary Search Tree](https://github.com/tiffanybibby/algorithm-collection/blob/main/data_structure/binary_search_tree/binary_search_tree.js)
+1. [Hash Table](https://github.com/tiffanybibby/algorithm-collection/blob/main/data_structures/hash_table.js)
+2. [Binary Search Tree](https://github.com/tiffanybibby/algorithm-collection/blob/main/data_structures/binary_search_tree/binary_search_tree.js)

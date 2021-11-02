@@ -13,7 +13,7 @@ if (hour === 12 && s.indexOf("AM") !== -1) {
 }
 // if afternoon
 if (hour === 12 && s.indexOf("PM") !== -1) {
-    return (time + timeFormat);
+    return (12 + timeFormat);
 }
 // if hour is from 1 to 11PM, add 12 to the time
 if (hour < 12 && s.indexOf("PM") !== -1) {
