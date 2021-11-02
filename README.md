@@ -1,6 +1,8 @@
 # ✨ Algorithm Collection ✨
 
-Algorithms/Data Structures I've completed via General Assembly Bootcamp/Hackerrank/Leetcode/Codewars/Edabit/Coding Interviews
+Algorithms/Data Structures I've completed via General Assembly Bootcamp/Hackerrank/Leetcode/Codewars/Edabit/Coding Interviews.
+
+Languages: Javascript, Ruby
 
 Special thanks to @yeana-dev for the collection idea!
 
