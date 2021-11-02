@@ -17,6 +17,9 @@ Special thanks to @yeana-dev for the collection idea!
 7. [Match Last Name](https://github.com/tiffanybibby/algorithm-collection/tree/main/matchLastName)
 8. [Encrypt Phone Number](https://github.com/tiffanybibby/algorithm-collection/tree/main/encrypt_phone_number)
 9. [Factorialize](https://github.com/tiffanybibby/algorithm-collection/tree/main/factorialize)
+9. [Permuting Two Arrays](https://github.com/tiffanybibby/algorithm-collection/tree/main/permutingTwoArrays)
+9. [Time Conversion](https://github.com/tiffanybibby/algorithm-collection/tree/main/timeConversion)
+
 
 ## Data Structure
 
