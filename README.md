@@ -19,6 +19,9 @@ Special thanks to @yeana-dev for the collection idea!
 9. [Factorialize](https://github.com/tiffanybibby/algorithm-collection/tree/main/factorialize)
 10. [Permuting Two Arrays](https://github.com/tiffanybibby/algorithm-collection/tree/main/permutingTwoArrays)
 11. [Time Conversion](https://github.com/tiffanybibby/algorithm-collection/tree/main/timeConversion)
+12. [Median Number](https://github.com/tiffanybibby/algorithm-collection/tree/main/medianNumber)
+13. [Lonely Integer](https://github.com/tiffanybibby/algorithm-collection/tree/main/lonelyInteger)
+
 
 
 ## Data Structures
